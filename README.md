@@ -1,3 +1,1 @@
-# MushroomCap Solutions
-
-## Testing
+theme: minima
